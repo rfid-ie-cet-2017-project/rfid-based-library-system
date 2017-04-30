@@ -5,7 +5,7 @@
  G Manmath Mahapatra,
  Sargam Das,
  Sunil Patra,
- Srutisagar Pattnaik,
+ Srutisagar Pattanaik,
  Saroj Raj Tripathy,
  Shakti Swarup Dash,
  Prabhu Piyush Dash,
