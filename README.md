@@ -1,14 +1,14 @@
 # rfid-based-library-system
  Final Year Project by
  
- Ashish Senapati
- G Manmath Mahapatra
- Sargam Das
- Sunil Patra
- Srutisagar Pattnaik
- Saroj Raj Tripathy
- Shakti Swarup Dash
- Prabhu Piyush Dash
+ Ashish Senapati,
+ G Manmath Mahapatra,
+ Sargam Das,
+ Sunil Patra,
+ Srutisagar Pattnaik,
+ Saroj Raj Tripathy,
+ Shakti Swarup Dash,
+ Prabhu Piyush Dash,
  Devi Prasad Baliarsingh
  
  
